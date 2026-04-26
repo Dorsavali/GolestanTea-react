@@ -1,0 +1,12 @@
+@import "tailwindcss";
+*{
+    margin: 0;
+    
+}
+@font-face {
+    font-family: iranSans;
+    src: url(../public/fonts/IRANSansWeb-Light.eot);
+    src: url(../public/fonts/IRANSansWeb-Light.ttf);
+    src: url(../public/fonts/IRANSansWeb-Light.woff);
+    src: url(../public/fonts/IRANSansWeb-Light.woff2);
+}
