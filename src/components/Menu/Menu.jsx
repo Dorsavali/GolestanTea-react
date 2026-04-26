@@ -1,7 +1,7 @@
 const Menu = () => {
   return (
     <header
-      className="w-full h-[100px] box-border bg-[#262626] fixed " >
+      className="w-full h-[100px] box-border bg-[#262626] fixed z-50 " >
       <nav className="w-full h-full flex flex-row-reverse box-border justify-end relative ">
         <img src="../../../public/images/logo.png" alt="logo" className="absolute top-5/12 left-[71%]"/>
         <ul className="w-[70%] h-full pt-5 box-border list-none flex gap-7 items-center flex-row-reverse">

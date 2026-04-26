@@ -10,3 +10,23 @@
     src: url(../public/fonts/IRANSansWeb-Light.woff);
     src: url(../public/fonts/IRANSansWeb-Light.woff2);
 }
+@keyframes slide-in {
+    0% {
+      opacity: 0;
+      transform: translateY(-250px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes slide-right {
+    0% {
+      opacity: 0;
+      transform: translate(250px);
+    }
+    to {
+      opacity: 1;
+      transform: translate(0);
+    }
+  }
