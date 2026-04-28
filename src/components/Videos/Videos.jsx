@@ -23,7 +23,7 @@ const Videos = () => {
     },
   ];
   return (
-    <div className="w-full h-[69vh] flex justify-center items-center py-10">
+    <div className="w-full h-[75vh] flex justify-center items-center py-10">
       <div className="w-[65%] grid grid-cols-3 gap-x-[15px]">
         {data.map((item, index) => (
           <div
