@@ -4,6 +4,8 @@ import Devider from "../Devider/Devider";
 import History from "../History/History";
 import Features  from "../Features/Features";
 import Product from "../Product/Product";
+import Background from "../Background/Background";
+import Blog from "../Blog/Blog";
 
 const App = () => {
     return <div>
@@ -14,6 +16,8 @@ const App = () => {
         <Features />
         <Devider />
         <Product />
+        <Background />
+        <Blog />
     </div>
 }
  

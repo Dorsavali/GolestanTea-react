@@ -39,7 +39,7 @@ const Product = () => {
     <div>
       {data.map((item, index) => {
         return (
-          <div key={index} className="w-full pt-5 box-border">
+          <div key={index} className="w-full py-5 box-border">
             <div className=" w-full flex justify-center items-center flex-col pt-5 box-border">
               <div className="w-full relative">
                 <img
