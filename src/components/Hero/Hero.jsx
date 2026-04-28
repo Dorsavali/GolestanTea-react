@@ -10,7 +10,7 @@ const Hero = () => {
       </div>
       <div className="w-[41%] h-full flex justify-center box-border items-end flex-col gap-5 animate-[slide-in_1s_ease_0.5s_1_normal_forwards]">
         <div className="w-[70%] flex flex-col justify-end items-start pt-17.5 box-border">
-          <div className="w-full font-[iranSans] text-red-500 text-[30px] font-normal text-right mb-2.5 box-border pb-3">
+          <div className="w-full font-[iranSans] text-[#ed1c24] text-[30px] font-normal text-right mb-2.5 box-border pb-3">
             قرعه‌کشی مصرف‌کنندگان گلستان
           </div>
           <div className="w-full font-[iranSans] text-[#002021] text-[20px]  font-normal text-right">
@@ -27,7 +27,7 @@ const Hero = () => {
           است.
         </div>
         <div className="w-full flex justify-end">
-          <button className="flex justify-center items-center border-[0.8px] border-solid border-[#c8c8c8] rounded-lg py-3 px-6 box-border font-[iranSans] bg-white text-[#7c7d7e] text-[15px] font-normal cursor-pointer transition-all duration-500 hover:bg-red-500 hover:text-white">
+          <button className="flex justify-center items-center border-[0.8px] border-solid border-[#c8c8c8] rounded-lg py-3 px-6 box-border font-[iranSans] bg-white text-[#7c7d7e] text-[15px] font-normal cursor-pointer transition-all duration-500 hover:bg-[#ed1c24] hover:text-white">
             اطلاعات بیشتر
           </button>
         </div>
