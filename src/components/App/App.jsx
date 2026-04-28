@@ -8,6 +8,9 @@ import Background from "../Background/Background";
 import Blog from "../Blog/Blog";
 import Videos from "../Videos/Videos";
 import Social from "../Social/Social";
+import Responsibility from "../Responsiblity/Responsibility";
+import SocialMediaBar from "../SocialMedia/SocialMedia";
+import Footer from "../Footer/Footer";
 
 const App = () => {
   return (
@@ -24,6 +27,9 @@ const App = () => {
       <Videos />
       <Social />
       <Devider />
+      <Responsibility/>
+      <SocialMediaBar/>
+      <Footer/>
     </div>
   );
 };
