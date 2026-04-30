@@ -1020,10 +1020,10 @@
 }
 @font-face {
   font-family: iranSans;
-  src: url(/assets/IRANSansWeb-Light-Dl9MyLNj.eot);
-  src: url(/assets/IRANSansWeb-Light-jzO36iQx.ttf);
-  src: url(/assets/IRANSansWeb-Light-DK_Gl6xb.woff);
-  src: url(/assets/IRANSansWeb-Light-CVqDiu1Q.woff2);
+  src: url(./assets/IRANSansWeb-Light-Dl9MyLNj.eot);
+  src: url(./assets/IRANSansWeb-Light-jzO36iQx.ttf);
+  src: url(./assets/IRANSansWeb-Light-DK_Gl6xb.woff);
+  src: url(./assets/IRANSansWeb-Light-CVqDiu1Q.woff2);
 }
 @keyframes slide-in {
   0% {
